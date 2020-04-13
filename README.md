@@ -39,11 +39,9 @@ https://github.com/saikiranrallabandi/covid19/blob/master/assets/wholesfood2_1.p
 ## Step 4
 *IMPORTANT* - Make sure you don't close the retailer's checkout page (from where you collected the cookie) ever while this finder is running. So let the page remain opened.
 
-## Step 5
-Go to `covid19` folder and then subfolder `delivery-finder` subfolder where this finder codebase is residing.
-
 ## Step 6
-In the `delivery-finder` folder, you would find a file called `finder.js`. Open that file in any editor and at the top of the file, you will find keys for three different retailers' cookies (lines 4,5 and 6). Whichever retailer's cookie you collected in step2 above, then replace the value of `XXXXX` with the collected cookie value. You can input multiple retaliers' cookies value by replacing the corresponding `XXXXX`. Then save the file.
+Replace with `XXXXX` with the collected cookie value
+
 ![example](https://github.com/saikiranrallabandi/covid19/blob/master/assets/config1.png)
 
 
