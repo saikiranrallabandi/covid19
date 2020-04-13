@@ -8,7 +8,7 @@
 ### Step 2.3
 > On the checkout page, if there is no availability window, then you may see this page, then
 ![follow this step to collect cookie](
-https://raw.githubusercontent.com/jvkumar/delivery-finder/master/assets/Step%202%20and%203.png)
+https://raw.githubusercontent.com/saikiranrallabandi/covid19/master/assets/Step%202%20and%203.png)
 
 > **Move to step 3 now**
 
